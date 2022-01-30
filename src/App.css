@@ -11,10 +11,16 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 16px;
+  color: white; 
 }
 .card-figure {
   border-radius: 16px;
   overflow: hidden;
    
+}
+a{
+  color: #09f;
+  font-size: 32px;
+  
 }
